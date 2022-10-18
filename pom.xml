@@ -52,13 +52,13 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- Autenticación -->
+		<!-- Autenticación
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-oauth2-client</artifactId>
 			<version>2.7.4</version>
-		</dependency>
-	</dependencies>
+		</dependency> -->
+	</dependencies> 
 
 	<build>
 		<plugins>
